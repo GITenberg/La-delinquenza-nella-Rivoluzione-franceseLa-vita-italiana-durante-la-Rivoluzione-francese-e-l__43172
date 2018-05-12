@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '34235'
     url: http://www.gutenberg.org/2009/agents/34235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43172#La-delinquenza-nella-Rivoluzione-franceseLa-vita-italiana-durante-la-Rivoluzione-francese-e-l_
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-07-09'
 gutenberg_type: Text
